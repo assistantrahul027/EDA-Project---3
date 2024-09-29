@@ -35,4 +35,4 @@ S.No	Topic	Sub_Topic
 21	Customer Preferences and Amenities	Visualize the sentiment analysis results
 -	-	-
 Name	Git_hub_Acc_Name	git_hub_link
-Mohd Rahul Mehra		assistantrahul027 git_hub_link
+Rahul Mehra		assistantrahul027 git_hub_link
